@@ -1,0 +1,6 @@
+a = input('enter a:')
+print('A is',a)
+b = input('enter b:')
+print('B is:',b)
+ans = int(a)+int(b)
+print('Addition is:',ans)
